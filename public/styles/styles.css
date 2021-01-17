@@ -1,0 +1,78 @@
+:root {
+    --white: #ffffff;
+    --grey_1: #E8E8EC;
+    --grey_2: #A1A2B2;
+    --grey_dark: #393B4C;
+    --pink_1: #ED3D6D;
+    --pink_2: #F993B9;
+    --purple_1: #3B2C6B;
+    --purple_2: #9182D1;
+}
+
+h1,h2,h3,h4,h5{
+    color: var(--grey_4);
+}
+
+body{
+    margin: 0px;
+    font-family: 'helvetica';
+    height: -webkit-fill-available;
+    position: relative;
+    height: auto;
+}
+
+.container{
+    max-width: 1024px;
+    height: min-content;
+    padding: 10px;
+    margin: auto;
+}
+
+p{
+    margin: 0px ;
+}
+
+ul,
+ol{
+    list-style-type: none !important;
+    padding: 0px;
+}
+
+.cadastro{
+    
+}
+
+.cadastro .top{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.cadastro .botao {
+    height: 58px;
+    width: 100%;
+    background: var(--purple_1);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.cadastro .botao a{
+    color: var(--white);
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.cadastro .footer{
+    box-shadow: 0px -4px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 36px;
+    padding:30px;
+}
+
+.footer p{
+    padding: 15px;
+    width: fit-content;
+    margin: auto;
+}
