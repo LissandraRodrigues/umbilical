@@ -1,5 +1,12 @@
 :root {
-    --grey_4: #393B4C;
+    --white: #ffffff;
+    --grey_1: #E8E8EC;
+    --grey_2: #A1A2B2;
+    --grey_dark: #393B4C;
+    --pink_1: #ED3D6D;
+    --pink_2: #F993B9;
+    --purple_1: #3B2C6B;
+    --purple_2: #9182D1;
 }
 
 h1,h2,h3,h4,h5{
