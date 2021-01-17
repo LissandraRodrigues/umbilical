@@ -1,18 +1,11 @@
+const express = require('express');
 
-const express = require("express")
+const server = express();
 
-// Cria o servidor.
-const server = express()
+// Template Engine.
+const nunjucks = require("nunjucks");
 
-// Configurar pasta pública.
-server.use(express.static("public"))
-
-server.use(express.urlencoded({extended: true}))
-
-// Utilizando Template Engine.
-const nunjucks = require("nunjucks")
-
-nunjucks.configure("src/pages", {
+nunjucks.configure("src/views", {
 
     express: server,
 
@@ -20,17 +13,19 @@ nunjucks.configure("src/pages", {
 
 });
 
-// Página de login.
-server.get("/", (request, answer) => {
+server.use(express.static("public"));
 
-    return answer.render("login.html")
+// Página de login.
+server.get("/", (request, response) => {
+
+    return response.render("login.html")
 
 });
 
 // Página da Home Mother.
-server.get("/home-mother", (request, answer) => {
+server.get("/home-mother", (request, response) => {
 
-    return answer.render("home-mother.html")
+    return response.render("mother/home-mother.html")
 
 });
 
