@@ -15,7 +15,7 @@ nunjucks.configure("src/views", {
 
 server.use(express.static("public"));
 
-// Página de login.
+// Página de Login.
 server.get("/", (request, response) => {
 
     return response.render("login.html")
@@ -33,6 +33,20 @@ server.get("/home-mother", (request, response) => {
 server.get("/scheduling-mentoring", (request, response) => {
 
     return response.render("mother/scheduling-mentoring.html")
+
+});
+
+// Página de perfil da Mãe.
+server.get("/perfil", (request, response) => {
+
+    return response.render("mother/perfil.html")
+
+});
+
+// Página de Mentores.
+server.get("/mentors", (request, response) => {
+
+    return response.render("mother/mentors.html")
 
 });
 

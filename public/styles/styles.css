@@ -17,13 +17,17 @@ h1,h2,h3,h4,h5 {
     
 }
 
+span {
+    
+    font-size: 12px;
+}
+
 body {
     
     margin: 0px;
     font-family: 'helvetica';
-    height: -webkit-fill-available;
     position: relative;
-    height: auto;
+    min-height: 100vw;
     
 }
 
@@ -35,6 +39,7 @@ header {
     position:relative;
     width: 100vw;
     height: 75px;
+    
 }
 
 header img {
@@ -52,7 +57,9 @@ header i {
 .container {
     
     max-width: 1024px;
-    height: min-content;
+    height: 76vh;
+    overflow: hidden;
+    overflow-y: initial;
     padding: 20px;
     margin: auto;
     
