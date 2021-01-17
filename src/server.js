@@ -18,14 +18,21 @@ nunjucks.configure("src/pages", {
 
     noCache: true
 
-})
+});
 
-// Página de cadastro. 
+// Página de login.
 server.get("/", (request, answer) => {
 
-    return answer.render("register.html")
+    return answer.render("login.html")
 
-})
+});
+
+// Página da Home Mother.
+server.get("/home-mother", (request, answer) => {
+
+    return answer.render("home-mother.html")
+
+});
 
 // Liga o Servidor.
-server.listen(3000) // Porta 3000.
+server.listen(3000); // Porta 3000.
