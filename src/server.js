@@ -29,5 +29,12 @@ server.get("/home-mother", (request, response) => {
 
 });
 
+// Página de Agendamento de Mentorias.
+server.get("/scheduling-mentoring", (request, response) => {
+
+    return response.render("mother/scheduling-mentoring.html")
+
+});
+
 // Liga o Servidor.
 server.listen(3000); // Porta 3000.
