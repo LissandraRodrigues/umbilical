@@ -1,0 +1,50 @@
+nav {
+    
+    height: 73px;
+    display: grid;
+    
+}
+
+.nav {
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.nav .nav-item {
+        
+    width: 35px;
+    height: 45px;
+        
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.nav .nav-item:last-child {
+    
+    margin-right: 0px;
+
+}
+
+.nav i {
+    
+    color: var(--grey_2);
+    
+}
+
+.nav .nav-item a {
+    
+    text-decoration: none;
+    color: var(--grey_2);
+    
+    margin-top: 7px;
+    
+}
+
+
