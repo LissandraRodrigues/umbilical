@@ -38,17 +38,17 @@ ol{
     padding: 0px;
 }
 
-.cadastro{
+.login{
     
 }
 
-.cadastro .top{
+.login .top{
     width: 60%;
     margin: auto;
     text-align: center;
 }
 
-.cadastro .botao {
+.login .botao {
     height: 58px;
     width: 100%;
     background: var(--purple_1);
@@ -59,13 +59,13 @@ ol{
     margin-bottom: 10px;
 }
 
-.cadastro .botao a{
+.login .botao a{
     color: var(--white);
     text-decoration: none;
     font-size: 20px;
 }
 
-.cadastro .footer{
+.login .footer{
     box-shadow: 0px -4px 4px rgba(0, 0, 0, 0.1);
     border-radius: 36px;
     padding:30px;
