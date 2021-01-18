@@ -22,7 +22,7 @@
   <a href="#checkered_flag-iniciando"> Iniciando </a> &#xa0; | &#xa0;
   <a href="#unlock-licença"> Licença </a> &#xa0; | &#xa0;
   <a href="#busts_in_silhouette-time"> Time </a> &#xa0; | &#xa0;
-  <a href="#busts_in_silhouette-time"> Fontes </a> &#xa0; | &#xa0;
+  <a href="#mag-fontes"> Fontes </a> &#xa0; | &#xa0;
   <a href="#heart-créditos"> Créditos </a> 
 
 </p>
@@ -39,7 +39,7 @@
 
 A Umbilical foi desenvolvida durante o <a href="http://www.grupoccr.com.br/hackathonccr/"> Hackathon CCR 2.0 </a> cujo desafio foi sobre a inclusão do público jovem no acesso ao conhecimento, à cultura, à empregabilidade e à geração de renda, como parte da estratégia de diversidade do <a href="http://www.grupoccr.com.br/"> Grupo </a> e <a href="http://www.institutoccr.com.br/"> Instituto CCR.</a> E a <a href="http://shawee.io/"> Shawee </a> foi a responsavél pela organização e elaboração do evento.
 
-Este projeto tem como foco a inclusão das jovens grávidas em relação a geração de renda e empregabilidade, tendo em vista que jovens que engravidam até os 20 anos ganham em média 30% a menos que outras mulheres e metade das grávidas são demitidas na volta da licença-maternidade. E Umbilical faz isso a através de um web app de empoderamento feminino no setor de serviço, que representa 70% do PIB nacional. A plataforma segue um modelo híbrido de marketplace de serviços com curadoria de conteúdos direcionados, que proporciona o protagonismo das jovens mães por meio de uma trilha de desenvolvimento focada em áreas, como empreendedorismo, educação financeira e saúde, gerando uma experiência gamificada e centrada no autodesenvolvimento.
+Este projeto tem como foco a inclusão das jovens grávidas em relação a geração de renda e empregabilidade, tendo em vista que jovens que engravidam até os 20 anos ganham em média 30% a menos que outras mulheres e metade das grávidas são demitidas na volta da licença-maternidade. E Umbilical foi pensado para combater tal cenério através de um web app de empoderamento feminino no setor de serviço, que representa 70% do PIB nacional. A plataforma segue um modelo híbrido de marketplace de serviços com curadoria de conteúdos direcionados, que proporciona o protagonismo das jovens mães por meio de uma trilha de desenvolvimento focada em áreas, como empreendedorismo, educação financeira e saúde, gerando uma experiência gamificada e centrada no autodesenvolvimento.
 
 Veja aqui a <a href="https://www.figma.com/file/47NbEKWaKwGGNdF1fmnkPo/Umbilical?node-id=0%3A1"> prototipação </a> do web app feita no Figma.
 
@@ -90,7 +90,7 @@ Integrante | Área | Graduação | Faculdade |
 
 Na aplicação foram utilizadas imagens de mulheres negras retiradas do <a href="https://nappy.co/"> Nappy,</a> um site recheado de fotos maravilhosas de pessoas negras :muscle:
 
-## Fontes ##
+## :mag: Fontes ##
 
 Fontes dos fatos citados no tópico <a href="#dart-sobre"> "Sobre" </a>
 
