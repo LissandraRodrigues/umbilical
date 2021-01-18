@@ -40,10 +40,7 @@ A Umbilical foi desenvolvida durante o <a href="http://www.grupoccr.com.br/hacka
 
 Este projeto tem como foco a inclusão das jovens grávidas em relação a geração de renda e empregabilidade, tendo em vista que ARGUMENTO e faz isso a partir de <EXPLICAÇÃO>
 
-EXPLICAR A SOLUÇÃO
-
-COLOCAR TELAS (GIF) E LINK PARA PROTOTIPAÇÃO NO FIGMA
-https://gifs.com/
+Veja aqui a <a href="https://www.figma.com/file/47NbEKWaKwGGNdF1fmnkPo/Umbilical?node-id=0%3A1"> prototipação </a> feita no Figma.
 
 ## :rocket: Tecnologias ##
 
