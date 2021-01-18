@@ -88,21 +88,12 @@ Integrante | Área | Graduação | Faculdade |
 <a href = "https://www.linkedin.com/in/romulo-rizo-cabral/"> Rômulo Cabral </a> | Desenvolvedor FullStack |  Engenharia de Computação | UERJ | 
 <a href = "https://www.linkedin.com/in/thiago-sagawe-361b93131//"> Thiago Sagawe </a> | Business |  Engenharia de Produção | CEFET-RJ | 
 
-
-
-![Alt Text](https://gifs.com/gif/0YwNr5)
-
 ## :heart: Créditos ##
 
 Na aplicação foram utilizadas imagens de mulheres negras retiradas do <a href="https://nappy.co/"> Nappy,</a> um site recheado de fotos maravilhosas de pessoas negras :muscle:
 
-
-<img src="https://j.gifs.com/0YwNr5.gif" />
-
 &#xa0;
 
 <hr/>
-
-![Alt Text](https://j.gifs.com/0YwNr5.gif)
 
 <a href="#top"> Voltar para o início </a>
