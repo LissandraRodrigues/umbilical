@@ -22,6 +22,7 @@
   <a href="#checkered_flag-iniciando"> Iniciando </a> &#xa0; | &#xa0;
   <a href="#unlock-licença"> Licença </a> &#xa0; | &#xa0;
   <a href="#busts_in_silhouette-time"> Time </a> &#xa0; | &#xa0;
+  <a href="#busts_in_silhouette-time"> Fontes </a> &#xa0; | &#xa0;
   <a href="#heart-créditos"> Créditos </a> 
 
 </p>
@@ -31,16 +32,16 @@
 ## :dart: Sobre ##
 
 <p align="center">
-	<img align ="center" width="500px" heigth="500px" src="GIF DA APLICAÇÃO"/>
+	<img align ="center" width="100px" heigth="100px" src="logo.png"/>
 </p>
 
 <br>
 
 A Umbilical foi desenvolvida durante o <a href="http://www.grupoccr.com.br/hackathonccr/"> Hackathon CCR 2.0 </a> cujo desafio foi sobre a inclusão do público jovem no acesso ao conhecimento, à cultura, à empregabilidade e à geração de renda, como parte da estratégia de diversidade do <a href="http://www.grupoccr.com.br/"> Grupo </a> e <a href="http://www.institutoccr.com.br/"> Instituto CCR.</a> E a <a href="http://shawee.io/"> Shawee </a> foi a responsavél pela organização e elaboração do evento.
 
-Este projeto tem como foco a inclusão das jovens grávidas em relação a geração de renda e empregabilidade, tendo em vista que ARGUMENTO e faz isso a partir de <EXPLICAÇÃO>
+Este projeto tem como foco a inclusão das jovens grávidas em relação a geração de renda e empregabilidade, tendo em vista que jovens que engravidam até os 20 anos ganham em média 30% a menos que outras mulheres e metade das mulheres grávidas são demitidas na volta da licença-maternidade. E Umbilical faz isso a através de um web app de empoderamento feminino no setor de serviço, que representa 70% do PIB nacional. A plataforma segue um modelo híbrido de marketplace de serviços com curadoria de conteúdos direcionados, que proporciona o protagonismo das jovens mães por meio de uma trilha de desenvolvimento focada em áreas, como empreendedorismo, educação financeira e saúde, gerando uma experiência gamificada e centrada no autodesenvolvimento.
 
-Veja aqui a <a href="https://www.figma.com/file/47NbEKWaKwGGNdF1fmnkPo/Umbilical?node-id=0%3A1"> prototipação </a> feita no Figma.
+Veja aqui a <a href="https://www.figma.com/file/47NbEKWaKwGGNdF1fmnkPo/Umbilical?node-id=0%3A1"> prototipação </a> do web app feita no Figma.
 
 ## :rocket: Tecnologias ##
 
@@ -88,6 +89,16 @@ Integrante | Área | Graduação | Faculdade |
 ## :heart: Créditos ##
 
 Na aplicação foram utilizadas imagens de mulheres negras retiradas do <a href="https://nappy.co/"> Nappy,</a> um site recheado de fotos maravilhosas de pessoas negras :muscle:
+
+## Fontes ##
+
+Fontes dos fatos citados no tópico <a href="#dart-sobre"> "Sobre" </a>
+
+- <a href="https://g1.globo.com/sp/piracicaba-regiao/noticia/2020/01/28/estudo-da-usp-mostra-que-gravidez-na-adolescencia-reduz-salario-de-mulheres-em-ate-30percent.ghtml"> Estudo da USP mostra que gravidez na adolescência reduz salário de mulheres em até 30% - G1 </a>
+
+- <a href="https://www.correiobraziliense.com.br/app/noticia/economia/2019/05/12/internas_economia,754492/metade-das-mulheres-gravidas-sao-demitidas-na-volta-da-licenca-materni.shtml"> Metade das mulheres grávidas são demitidas na volta da licença-maternidade - Correio Brasiliense </a>
+
+- <a href="https://www.suafranquia.com/noticias/negocios-e-servicos/2013/01/setor-de-servicos-representa-quase-70-do-pib-brasileiro/#:~:text=Com%20diversos%20tipos%20de%20neg%C3%B3cios,Instituto%20Brasileiro%20de%20Geografia%20e"> Setor de serviços representa quase 70% do PIB brasileiro - Sua Franquia </a>
 
 &#xa0;
 
