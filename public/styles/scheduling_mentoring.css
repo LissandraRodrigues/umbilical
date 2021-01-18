@@ -1,0 +1,18 @@
+.agendamento h2{
+    margin-bottom: 40px;
+}
+
+.agendamento i{
+    color: var(--grey_dark);
+    font-size: 20px;
+}
+
+
+.agendamento li{
+    display: flex;
+    justify-content: center;
+}
+
+.agendamento li p{
+    color: var(--grey_dark);
+}

@@ -1,0 +1,58 @@
+.perfil .foto img{
+    border-radius: 60px;
+}
+
+.perfil p{
+    font-size: 14px;
+    width: 70vw;
+    text-align: center;
+}
+
+.perfil .info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 45vh;
+}
+
+.perfil .status,
+.perfil .areas{
+    display:flex;
+}
+
+.perfil .status > div {
+    text-align: center;
+}
+.perfil .status > div > *{
+    margin:0px ;
+}
+
+.perfil .status > div:first-child{
+    border-right: 1px solid var(--grey_dark);
+    padding-right: 8px;
+    margin-right: 8px;
+}
+.perfil .status i{
+    font-size: 30px;
+    color: var(--pink_1);
+    margin: 3px 0px 5px 0px;
+}
+
+.servicos li div:first-child{
+    display: flex;
+    flex-direction: column;
+}
+
+.servicos li {
+    display:flex;
+    justify-content: space-between;
+    height: 105px;
+}
+
+.servicos li div:first-child span{
+    color: var(--pink_1);
+}
+
+.perfil .galeria{
+    display: flex;
+}

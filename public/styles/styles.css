@@ -1,7 +1,8 @@
 :root {
     
     --white: #ffffff;
-    --grey_1: #E8E8EC;
+    --grey_0: #E8E8EC;
+    --grey_1: #F0F0F0;
     --grey_2: #A1A2B2;
     --grey_dark: #393B4C;
     --pink_1: #ED3D6D;
@@ -11,10 +12,14 @@
     
 }
 
-h1,h2,h3,h4,h5 {
+h1,h2,h3,h4,h5 ,p{
     
-    color: var(--grey_4);
+    color: var(--grey_dark);
     
+}
+
+html{
+    background-color:var(--grey_0);
 }
 
 span {
@@ -39,6 +44,8 @@ header {
     position:relative;
     width: 100vw;
     height: 75px;
+    background: var(--white);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
     
 }
 
@@ -57,11 +64,12 @@ header i {
 .container {
     
     max-width: 1024px;
-    height: 76vh;
+    height: 75vh;
     overflow: hidden;
     overflow-y: initial;
     padding: 20px;
     margin: auto;
+    background: var(--grey_0);
     
 }
 
@@ -126,5 +134,75 @@ li .info {
 .info span {
     
     font-size: 12px;
+    
+}
+
+.areas {
+    
+    padding: 0 10px;
+    background: var(--grey_0);
+    width: fit-content;
+    border-radius: 20px;
+    height: 22px;
+    align-items: center;
+    
+}
+
+
+.status {
+    
+    width: fit-content;
+    
+}
+
+.status img {
+    
+    margin-right: 8px;
+    
+}
+
+.img-profile {
+    
+    border-radius: 50%;
+    
+}
+
+.botao-confirmar{
+    width: 255px;
+    height: 51px;
+    background: var(--pink_1);
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+}
+
+.botao-confirmar a{
+    text-decoration: none;
+    color: var(--white);
+}
+
+
+.title-lista > a {
+    
+    color: var(--pink_1);
+    text-decoration: none;
+    
+}
+
+.title-lista > * {
+    
+    margin: 0px ;
+    padding: 0px ;
+    
+}
+
+.title-lista {
+    
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px;
     
 }

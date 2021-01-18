@@ -1,0 +1,93 @@
+.trilha .top{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.trilha .top h4{
+    width: min-content;
+    text-align: center;
+}
+
+.trilha .top div{
+    background: var(--grey_1);
+    border-radius: 40px;
+    padding: 0px 12px;
+}
+
+.progresso{
+    position: relative;
+    width: 30%;
+    height: 1px;
+}
+
+.progresso::after{
+    content: "";
+    display: block;
+    width: 20vw;
+    height: 8px;
+    background: var(--pink_1);
+    border-radius: 20px;
+}
+
+.trilha li{
+    flex-direction: column;
+    align-items: flex-start;
+    color: var(--white);
+    height: 105px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.trilha li h2{
+    color: var(--white);
+    margin: 25px 0px 5px 0px;    
+}
+
+.trilha .icons > div {
+    display: flex;
+    align-items: center;
+    margin-right: 8px;
+}
+
+.trilha .icons > div > div{
+    width: 46px;
+    padding: 5px;
+    text-align: center;    
+    background: rgba(255,255,255,0.5);
+    border-radius: 20px;
+    margin-left: 8px;
+}
+
+.trilha .background{
+    background-repeat: no-repeat;
+    background-size: 150%;
+    background-position: center;
+}
+
+.trilha .tutorial{
+    background-image: url("../images/trail-areas/tutorial.png");
+}
+
+.trilha .saude{
+    background-image: url("../images/trail-areas/health.png");
+}
+
+.trilha .empreendedorismo{
+    background-image: url("../images/trail-areas/business.png");
+}
+
+.trilha .financeira{
+    background-image: url("../images/trail-areas/finances.png");
+}
+
+.trilha .idiomas{
+    background-image: url("../images/trail-areas/languages.png");
+}
+
+.trilha .office{
+    background-image: url("../images/trail-areas/office.png");
+}
+

@@ -37,9 +37,16 @@ server.get("/scheduling-mentoring", (request, response) => {
 });
 
 // Página de perfil da Mãe.
-server.get("/perfil", (request, response) => {
+server.get("/profile", (request, response) => {
 
-    return response.render("mother/perfil.html")
+    return response.render("mother/profile.html")
+
+});
+
+// Página de trilha de desenvolvimento.
+server.get("/trail", (request, response) => {
+
+    return response.render("mother/trail.html")
 
 });
 

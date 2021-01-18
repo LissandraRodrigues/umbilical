@@ -1,16 +1,21 @@
-<!DOCTYPE html>
+=<!DOCTYPE html>
 
 <html lang="pt-br">
 
     <head>
 
         <meta charset="UTF-8">
+        
+        <link rel="icon" type="imagem/png" href="imagens/logo.png" size="10x16" />
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-        <title> Agendamento </title>
+        <title> Agendamento de Mentores </title>
 
         <link rel="stylesheet" href="styles/styles.css">
+        <link rel="stylesheet" href="styles/nav.css">
+        <link rel="stylesheet" href="styles/scheduling_mentoring.css">
+        <link href="styles/all.css" rel="stylesheet">
 
     </head>
 
@@ -18,61 +23,92 @@
         
         <header> 
             
-            <img src="/src/public/images/logo.png" alt="Logo">
+            <i class="fas fa-bars"></i>
+            <img src="images/logo_2.png" alt="Logo">
 
         </header>
         
-        <h2>
-                
-            Agendamento com Andréia
+        <div class="container agendamento">
             
-        </h2>
+            <a href="/mentors">
+                <i class="fas fa-chevron-left" ></i>
+            </a>
+            
+            <h2>
 
-        <div>
-            
-            <h3>
+                Agendamento com Andréia
+
+            </h2>
+
+            <div>
+
+                <h3>
+
+                    Horários disponíveis
+
+                </h3>   
+
+                <ul>
+
+                    <li> <p> Sáb. 16/01 às 10h </p> </li>
+                    <li> <p> Sáb. 16/01 às 10h </p> </li>
+                    <li> <p> Sáb. 16/01 às 10h </p> </li>
+                    <li> <p> Sáb. 16/01 às 10h </p> </li>
+                    <li> <p> Sáb. 16/01 às 10h </p> </li>
+
+                </ul>
                 
-                Horários disponíveis
-                
-            </h3>   
-            
-            <ul>
-                
-                <li> 
-                    
-                    <p> Sáb. 16/01 às 10h </p> 
-                    <p> Sáb. 16/01 às 10h </p> 
-                    <p> Sáb. 16/01 às 10h </p> 
-                    <p> Sáb. 16/01 às 10h </p> 
-                    <p> Sáb. 16/01 às 10h </p> 
-                    <p> Sáb. 16/01 às 10h </p>
-                    
+                <div class="botao-confirmar">
                     <a href=""> Confirmar </a>
-                
-                </li>
-                
-            </ul>
+                </div>
+
+            </div>
             
         </div>
         
         <nav> 
+            
+            <div class="nav">
 
-            <ul>
+                <div class="nav-item"> 
+                    <a href="/trail"> 
+                        <i class="fas fa-brain"></i> 
+                        <span>Trilha</span>
+                    </a> 
+                </div>
 
-                <li> <a href=""> Trilha </a> </li>
+                <div class="nav-item"> 
+                    <a href="/profile"> 
+                        <i class="fas fa-tasks"></i>
+                        <span>Pedidos</span>
+                    </a>
+                </div>
 
-                <li> <a href=""> Pedidos </a> </li>
+                <div class="nav-item"> 
+                    <a href="/home-mother"> 
+                        <i class="fas fa-home"></i>
+                        <span>Home</span>
+                    </a>
+                </div>
 
-                <li> <a href=""> Home </a> </li>
+                <div class="nav-item on"> 
+                    <a href="/mentors">
+                        <i class="fas fa-comments"></i>
+                        <span> Mentor </span>
+                    </a>
+                </div>
 
-                <li> <a href=""> Mentor </a> </li>
+                <div class="nav-item"> 
+                    <a href="/profile"> 
+                        <i class="fas fa-user"></i>
+                        <span>Perfil</span>
+                    </a>
+                </div>
 
-                <li> <a href=""> Perfil </a> </li>
-
-            </ul>
+            </div>
         
         </nav>
-        
+
     </body>
 
 </html>
