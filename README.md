@@ -22,9 +22,9 @@
   <a href="#checkered_flag-iniciando"> Iniciando </a> &#xa0; | &#xa0;
   <a href="#unlock-licença"> Licença </a> &#xa0; | &#xa0;
   <a href="#busts_in_silhouette-time"> Time </a> &#xa0; | &#xa0;
-  <a href="#mag-fontes"> Fontes </a> &#xa0; | &#xa0;
-  <a href="#heart-créditos"> Créditos </a> 
-
+  <a href="#heart-créditos"> Créditos </a>  &#xa0; | &#xa0;
+  <a href="#mag-fontes"> Fontes </a>
+	
 </p>
 
 <br>
@@ -94,11 +94,11 @@ Na aplicação foram utilizadas imagens de mulheres negras retiradas do <a href=
 
 Fontes dos fatos citados no tópico <a href="#dart-sobre"> "Sobre": </a>
 
-- <a href="https://g1.globo.com/sp/piracicaba-regiao/noticia/2020/01/28/estudo-da-usp-mostra-que-gravidez-na-adolescencia-reduz-salario-de-mulheres-em-ate-30percent.ghtml"> Estudo da USP mostra que gravidez na adolescência reduz salário de mulheres em até 30% - G1 </a>
+- <a href="https://g1.globo.com/sp/piracicaba-regiao/noticia/2020/01/28/estudo-da-usp-mostra-que-gravidez-na-adolescencia-reduz-salario-de-mulheres-em-ate-30percent.ghtml"> Estudo da USP mostra que gravidez na adolescência reduz salário de mulheres em até 30% - G1; </a>
 
-- <a href="https://www.correiobraziliense.com.br/app/noticia/economia/2019/05/12/internas_economia,754492/metade-das-mulheres-gravidas-sao-demitidas-na-volta-da-licenca-materni.shtml"> Metade das mulheres grávidas são demitidas na volta da licença-maternidade - Correio Brasiliense </a>
+- <a href="https://www.correiobraziliense.com.br/app/noticia/economia/2019/05/12/internas_economia,754492/metade-das-mulheres-gravidas-sao-demitidas-na-volta-da-licenca-materni.shtml"> Metade das mulheres grávidas são demitidas na volta da licença-maternidade - Correio Brasiliense; </a>
 
-- <a href="https://www.suafranquia.com/noticias/negocios-e-servicos/2013/01/setor-de-servicos-representa-quase-70-do-pib-brasileiro/#:~:text=Com%20diversos%20tipos%20de%20neg%C3%B3cios,Instituto%20Brasileiro%20de%20Geografia%20e"> Setor de serviços representa quase 70% do PIB brasileiro - Sua Franquia </a>
+- <a href="https://www.suafranquia.com/noticias/negocios-e-servicos/2013/01/setor-de-servicos-representa-quase-70-do-pib-brasileiro/#:~:text=Com%20diversos%20tipos%20de%20neg%C3%B3cios,Instituto%20Brasileiro%20de%20Geografia%20e"> Setor de serviços representa quase 70% do PIB brasileiro - Sua Franquia. </a>
 
 &#xa0;
 
