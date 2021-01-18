@@ -92,7 +92,7 @@ Na aplicação foram utilizadas imagens de mulheres negras retiradas do <a href=
 
 ## :mag: Fontes ##
 
-Fontes dos fatos citados no tópico <a href="#dart-sobre"> "Sobre" </a>
+Fontes dos fatos citados no tópico <a href="#dart-sobre"> "Sobre": </a>
 
 - <a href="https://g1.globo.com/sp/piracicaba-regiao/noticia/2020/01/28/estudo-da-usp-mostra-que-gravidez-na-adolescencia-reduz-salario-de-mulheres-em-ate-30percent.ghtml"> Estudo da USP mostra que gravidez na adolescência reduz salário de mulheres em até 30% - G1 </a>
 
