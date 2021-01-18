@@ -16,6 +16,7 @@
 
 <p align="center">
   <a href="#dart-sobre"> Sobre </a> &#xa0; | &#xa0; 
+  <a href = "#videos"> Vídeos </a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias"> Tecnologias </a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requisitos"> Requisitos </a> &#xa0; | &#xa0;
   <a href="#checkered_flag-iniciando"> Iniciando </a> &#xa0; | &#xa0;
@@ -41,6 +42,12 @@ A Umbilical foi desenvolvida durante o <a href="http://www.grupoccr.com.br/hacka
 Este projeto tem como foco a inclusão das jovens mães em relação a geração de renda e empregabilidade, tendo em vista que jovens que engravidam até os 20 anos ganham em média 30% a menos que outras mulheres e metade das grávidas são demitidas na volta da licença-maternidade. E Umbilical foi pensado para combater tal cenário através de um web app de empoderamento feminino no setor de serviço, que representa 70% do PIB nacional. A plataforma segue um modelo híbrido de marketplace de serviços com curadoria de conteúdos direcionados, que proporciona o protagonismo das jovens mães por meio de uma trilha de desenvolvimento focada em áreas, como empreendedorismo, educação financeira e saúde, gerando uma experiência gamificada e centrada no autodesenvolvimento.
 
 Veja aqui a <a href="https://www.figma.com/file/47NbEKWaKwGGNdF1fmnkPo/Umbilical?node-id=0%3A1"> prototipação </a> do web app feita no Figma.
+
+## :movie_camera: Vídeos ##
+
+:thought_balloon:  - <a href = "https://www.youtube.com/watch?v=dCJkQ6OfYFk&feature=youtu.be"> Pitch </a>
+
+:computer:  - <a href = "#"> Demo </a>
 
 ## :rocket: Tecnologias ##
 
